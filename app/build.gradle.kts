@@ -15,7 +15,7 @@ android {
         minSdk = 23
         targetSdk = 35
         versionCode = 19
-        versionName = "1.4.2"
+        versionName = "1.5.2"
 
         vectorDrawables {
             useSupportLibrary = true
@@ -79,7 +79,7 @@ android {
             path = file("src/main/cpp/CMakeLists.txt")
         }
     }
-    namespace = "com.sapphire.launcher"
+    namespace = "com.geode.launcher"
     ndkVersion = "27.2.12479018"
 }
 
