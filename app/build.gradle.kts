@@ -11,7 +11,7 @@ android {
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.geode.launcher"
+        applicationId = "com.sapphire.launcher"
         minSdk = 23
         targetSdk = 35
         versionCode = 19
