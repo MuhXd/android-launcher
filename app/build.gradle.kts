@@ -79,7 +79,7 @@ android {
             path = file("src/main/cpp/CMakeLists.txt")
         }
     }
-    namespace = "com.geode.launcher"
+    namespace = "com.sapphire.launcher"
     ndkVersion = "27.2.12479018"
 }
 
